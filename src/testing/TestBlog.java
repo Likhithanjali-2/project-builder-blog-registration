@@ -1,5 +1,5 @@
 package testing;
-
+/*
 import static org.junit.Assert.*;
 
 import java.time.LocalDate;
@@ -29,4 +29,4 @@ public class TestBlog {
 			 e.printStackTrace();
 		 }
 	 }
-}
+}*/
